@@ -30,7 +30,11 @@ $routes->set404Override();
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
-$routes->get('/mantenimientoCarro', 'mantenimientoCarro::index');
+$routes->get('/Mantenimientocarro', 'Mantenimientocarro::index');
+
+$routes->post('/Mantenimientocarro/buscar', 'Mantenimientocarro::buscar');
+//$routes->post('events', 'Events::update/$1');
+//s$routes->resource('Mantenimientocarro'); 
 
 /*
  * --------------------------------------------------------------------
