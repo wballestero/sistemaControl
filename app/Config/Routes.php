@@ -31,8 +31,15 @@ $routes->set404Override();
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
 $routes->get('/Mantenimientocarro', 'Mantenimientocarro::index');
+$routes->get('/ConsultaFacturas', 'ConsultaFacturas::index');
 
-$routes->post('/Mantenimientocarro/buscar', 'Mantenimientocarro::buscar');
+$routes->post('/Mantenimientocarro/listarOrigenes', 'Mantenimientocarro::listarOrigenes');
+$routes->post('/Mantenimientocarro/listarFormaPago', 'Mantenimientocarro::listarFormaPago');
+$routes->post('/Mantenimientocarro/listarMotivos', 'Mantenimientocarro::listarMotivos');
+$routes->post('/Mantenimientocarro/procesarFactura', 'Mantenimientocarro::procesarFactura');
+$routes->post('/Mantenimientocarro/listarCategorias', 'Mantenimientocarro::listarCategorias');
+$routes->post('/ConsultaFacturas/buscarFactura', 'ConsultaFacturas::buscarFactura');
+
 //$routes->post('events', 'Events::update/$1');
 //s$routes->resource('Mantenimientocarro'); 
 

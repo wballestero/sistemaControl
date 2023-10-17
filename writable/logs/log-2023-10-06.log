@@ -1,0 +1,205 @@
+CRITICAL - 2023-10-06 00:09:23 --> Call to undefined method App\Controllers\mantenimientoCarro::backendRequest()
+in APPPATH\Controllers\Mantenimientocarro.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarVehiculos()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 00:10:14 --> Call to undefined method App\Controllers\mantenimientoCarro::backendRequest()
+in APPPATH\Controllers\Mantenimientocarro.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarVehiculos()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 00:11:00 --> Call to undefined method App\Controllers\mantenimientoCarro::backendRequest()
+in APPPATH\Controllers\Mantenimientocarro.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarVehiculos()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 00:14:07 --> Call to undefined method App\Controllers\mantenimientoCarro::backendRequest()
+in APPPATH\Controllers\Mantenimientocarro.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarVehiculos()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 00:14:45 --> Call to undefined method App\Controllers\mantenimientoCarro::backendRequest()
+in APPPATH\Controllers\Mantenimientocarro.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarVehiculos()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 00:15:34 --> Call to undefined method App\Controllers\mantenimientoCarro::backendRequest()
+in APPPATH\Controllers\Mantenimientocarro.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarVehiculos()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 00:21:09 --> require_once(dbConection.php): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Mantenimientocarro.php on line 5.
+ 1 APPPATH\Controllers\Mantenimientocarro.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(dbConection.php): Failed to open stream: No such file or directory', 'APPPATH\\Controllers\\Mantenimientocarro.php', 5)
+ 2 APPPATH\Controllers\Mantenimientocarro.php(5): require_once()
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once('APPPATH\\Controllers\\Mantenimientocarro.php')
+ 4 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Mantenimientocarro.php')
+ 5 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Mantenimientocarro')
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Mantenimientocarro')
+ 7 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Mantenimientocarro', true)
+ 8 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 00:21:20 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+in APPPATH\Controllers\Mantenimientocarro.php on line 3.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-06 00:21:28 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+in APPPATH\Controllers\Mantenimientocarro.php on line 3.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-06 00:22:54 --> Call to undefined method App\Controllers\mantenimientoCarro::backendRequest()
+in APPPATH\Controllers\Mantenimientocarro.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarVehiculos()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 00:23:09 --> Call to undefined method App\Controllers\mantenimientoCarro::backendRequest()
+in APPPATH\Controllers\Mantenimientocarro.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarVehiculos()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 00:24:06 --> Call to undefined method App\Controllers\mantenimientoCarro::backendRequest()
+in APPPATH\Controllers\Mantenimientocarro.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarVehiculos()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 00:24:41 --> Call to undefined method App\Controllers\mantenimientoCarro::backendRequest()
+in APPPATH\Controllers\Mantenimientocarro.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarVehiculos()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 00:25:09 --> Call to undefined method App\Controllers\mantenimientoCarro::backendRequest()
+in APPPATH\Controllers\Mantenimientocarro.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarVehiculos()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 00:25:21 --> Call to undefined method App\Controllers\mantenimientoCarro::backendRequest()
+in APPPATH\Controllers\Mantenimientocarro.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarVehiculos()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 00:26:42 --> Call to undefined method App\Controllers\mantenimientoCarro::backendRequest()
+in APPPATH\Controllers\Mantenimientocarro.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarVehiculos()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 00:26:53 --> Call to undefined method App\Controllers\mantenimientoCarro::backendRequest()
+in APPPATH\Controllers\Mantenimientocarro.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarVehiculos()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 00:36:59 --> Call to undefined method App\Controllers\mantenimientoCarro::backendRequest()
+in APPPATH\Controllers\Mantenimientocarro.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarVehiculos()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 00:37:08 --> Call to undefined method App\Controllers\mantenimientoCarro::backendRequest()
+in APPPATH\Controllers\Mantenimientocarro.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarVehiculos()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 00:37:44 --> Call to undefined method App\Controllers\mantenimientoCarro::backendRequest()
+in APPPATH\Controllers\Mantenimientocarro.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarVehiculos()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 00:38:19 --> Call to undefined method App\Controllers\mantenimientoCarro::backendRequest()
+in APPPATH\Controllers\Mantenimientocarro.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarVehiculos()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 00:40:09 --> Call to undefined method App\Controllers\mantenimientoCarro::backendRequest()
+in APPPATH\Controllers\Mantenimientocarro.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarVehiculos()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 00:44:19 --> Class "App\Database" not found
+in APPPATH\Controllers\Mantenimientocarro.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarVehiculos()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 00:45:17 --> Cannot use "parent" when current class scope has no parent
+in APPPATH\Database\dbConection.php on line 11.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-06 00:45:40 --> Cannot use "parent" when current class scope has no parent
+in APPPATH\Database\dbConection.php on line 11.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-06 00:46:25 --> Object of class App\Database\dbConection could not be converted to string
+in APPPATH\Controllers\Mantenimientocarro.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarVehiculos()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 00:46:47 --> Object of class App\Database\dbConection could not be converted to string
+in APPPATH\Controllers\Mantenimientocarro.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarVehiculos()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 00:48:40 --> syntax error, unexpected variable "$conn"
+in APPPATH\Database\dbConection.php on line 27.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Database\\dbConection.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Database\\dbConection')
+ 3 APPPATH\Controllers\Mantenimientocarro.php(18): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Database\\dbConection')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarVehiculos()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 00:52:32 --> Object of class Config\Database could not be converted to string
+in APPPATH\Database\dbConection.php on line 23.
+ 1 APPPATH\Controllers\Mantenimientocarro.php(19): App\Database\dbConection->backendRequest()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarVehiculos()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 00:53:05 --> Object of class Config\Database could not be converted to string
+in APPPATH\Database\dbConection.php on line 23.
+ 1 APPPATH\Controllers\Mantenimientocarro.php(19): App\Database\dbConection->backendRequest()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarVehiculos()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 03:14:51 --> Cannot use "parent" when current class scope has no parent
+in APPPATH\Database\dbConection.php on line 14.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-06 22:18:14 --> Array to string conversion
+in APPPATH\Controllers\Mantenimientocarro.php on line 104.
+ 1 APPPATH\Controllers\Mantenimientocarro.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Controllers\\Mantenimientocarro.php', 104)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->procesarFactura()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 22:22:38 --> A void function must not return a value
+in APPPATH\Controllers\Mantenimientocarro.php on line 106.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-06 22:47:58 --> json_decode(): Argument #1 ($json) must be of type string, array given
+in APPPATH\Controllers\Mantenimientocarro.php on line 105.
+ 1 APPPATH\Controllers\Mantenimientocarro.php(105): json_decode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->procesarFactura()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-06 22:58:39 --> Unsupported operand types: string + string
+in APPPATH\Controllers\Mantenimientocarro.php on line 133.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->procesarFactura()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

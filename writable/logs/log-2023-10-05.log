@@ -1,0 +1,217 @@
+CRITICAL - 2023-10-05 14:48:17 --> Call to undefined function App\Controllers\sqlsrv_connect()
+in APPPATH\Controllers\Mantenimientocarro.php on line 40.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 14:48:40 --> Call to undefined function App\Controllers\sqlsrv_connect()
+in APPPATH\Controllers\Mantenimientocarro.php on line 40.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 14:48:52 --> Call to undefined function App\Controllers\sqlsrv_connect()
+in APPPATH\Controllers\Mantenimientocarro.php on line 40.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 14:49:15 --> Call to undefined function App\Controllers\sqlsrv_connect()
+in APPPATH\Controllers\Mantenimientocarro.php on line 40.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 16:26:13 --> Call to undefined function App\Controllers\sqlsrv_connect()
+in APPPATH\Controllers\Mantenimientocarro.php on line 40.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 16:59:17 --> Call to a member function prepare() on resource
+in APPPATH\Controllers\Mantenimientocarro.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 16:59:42 --> Call to a member function prepare() on resource
+in APPPATH\Controllers\Mantenimientocarro.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 16:59:50 --> Call to a member function prepare() on resource
+in APPPATH\Controllers\Mantenimientocarro.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 17:00:28 --> Call to a member function prepare() on resource
+in APPPATH\Controllers\Mantenimientocarro.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 17:02:11 --> Call to a member function prepare() on resource
+in APPPATH\Controllers\Mantenimientocarro.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 17:02:45 --> Call to a member function prepare() on resource
+in APPPATH\Controllers\Mantenimientocarro.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 17:06:33 --> Class "App\Controllers\PDO" not found
+in APPPATH\Controllers\Mantenimientocarro.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 17:06:56 --> Call to a member function prepare() on resource
+in APPPATH\Controllers\Mantenimientocarro.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 17:15:14 --> sqlsrv_prepare(): Argument #3 ($params) must be of type ?array, string given
+in APPPATH\Controllers\Mantenimientocarro.php on line 35.
+ 1 APPPATH\Controllers\Mantenimientocarro.php(35): sqlsrv_prepare(resource (SQL Server Connection), 'EXEC consultaVehiculos @pConsulta = ? ', 'consultaVehiculos')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 17:16:07 --> sqlsrv_prepare(): Argument #3 ($params) must be of type ?array, string given
+in APPPATH\Controllers\Mantenimientocarro.php on line 35.
+ 1 APPPATH\Controllers\Mantenimientocarro.php(35): sqlsrv_prepare(resource (SQL Server Connection), 'EXEC consultaVehiculos @pConsulta = ? ', 'consultaVehiculos')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 17:18:54 --> Call to a member function sqlsrv_execute() on resource
+in APPPATH\Controllers\Mantenimientocarro.php on line 42.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 17:22:27 --> Call to a member function sqlsrv_execute() on resource
+in APPPATH\Controllers\Mantenimientocarro.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 17:24:27 --> Call to a member function sqlsrv_execute() on resource
+in APPPATH\Controllers\Mantenimientocarro.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 17:51:03 --> sqlsrv_execute(): supplied resource is not a valid ss_sqlsrv_stmt resource
+in APPPATH\Controllers\Mantenimientocarro.php on line 96.
+ 1 APPPATH\Controllers\Mantenimientocarro.php(96): sqlsrv_execute(NULL)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 21:17:05 --> Value of type resource is not callable
+in APPPATH\Controllers\Mantenimientocarro.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 21:23:21 --> sqlsrv_query(): Argument #1 ($conn) must be of type resource, string given
+in APPPATH\Controllers\Mantenimientocarro.php on line 38.
+ 1 APPPATH\Controllers\Mantenimientocarro.php(38): sqlsrv_query('EXEC consultaVehiculos @pConsulta=consultaVehiculo', resource (SQL Server Connection))
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 21:24:41 --> sqlsrv_query(): Argument #1 ($conn) must be of type resource, string given
+in APPPATH\Controllers\Mantenimientocarro.php on line 38.
+ 1 APPPATH\Controllers\Mantenimientocarro.php(38): sqlsrv_query('EXEC consultaVehiculos @pConsulta=\'consultaVehiculo\'', resource (SQL Server Connection))
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 21:24:54 --> sqlsrv_query(): Argument #1 ($conn) must be of type resource, string given
+in APPPATH\Controllers\Mantenimientocarro.php on line 38.
+ 1 APPPATH\Controllers\Mantenimientocarro.php(38): sqlsrv_query('EXEC consultaVehiculos @pConsulta=\'consultaVehiculo\'', resource (SQL Server Connection))
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 21:25:30 --> sqlsrv_query(): Argument #1 ($conn) must be of type resource, string given
+in APPPATH\Controllers\Mantenimientocarro.php on line 38.
+ 1 APPPATH\Controllers\Mantenimientocarro.php(38): sqlsrv_query('EXEC consultaVehiculos @pConsulta=\'consultaVehiculo\'', resource (SQL Server Connection))
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 21:36:31 --> Call to undefined function App\Controllers\qlsrv_next_result()
+in APPPATH\Controllers\Mantenimientocarro.php on line 64.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 21:49:39 --> json_decode(): Argument #1 ($json) must be of type string, array given
+in APPPATH\Controllers\Mantenimientocarro.php on line 44.
+ 1 APPPATH\Controllers\Mantenimientocarro.php(44): json_decode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 22:05:44 --> sqlsrv_fetch_array(): Argument #2 ($fetch_type) must be of type int, string given
+in APPPATH\Controllers\Mantenimientocarro.php on line 31.
+ 1 APPPATH\Controllers\Mantenimientocarro.php(31): sqlsrv_fetch_array(resource (SQL Server Connection), 'EXEC consultaVehiculos @pConsulta=?', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 22:37:18 --> json_decode(): Argument #1 ($json) must be of type string, array given
+in APPPATH\Controllers\Mantenimientocarro.php on line 53.
+ 1 APPPATH\Controllers\Mantenimientocarro.php(53): json_decode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 22:38:10 --> Undefined constant "App\Controllers\SQLSRV_FETCH_SQLSRV_FETCH_NUMERIC"
+in APPPATH\Controllers\Mantenimientocarro.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 22:40:59 --> Cannot use [] for reading
+in APPPATH\Controllers\Mantenimientocarro.php on line 53.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-05 22:42:02 --> syntax error, unexpected identifier "sqlsrv_close", expecting variable or "{" or "$"
+in APPPATH\Controllers\Mantenimientocarro.php on line 58.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Mantenimientocarro.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Mantenimientocarro')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Mantenimientocarro')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Mantenimientocarro', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 22:45:21 --> json_decode(): Argument #1 ($json) must be of type string, array given
+in APPPATH\Controllers\Mantenimientocarro.php on line 52.
+ 1 APPPATH\Controllers\Mantenimientocarro.php(52): json_decode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 22:46:35 --> json_decode(): Argument #1 ($json) must be of type string, array given
+in APPPATH\Controllers\Mantenimientocarro.php on line 52.
+ 1 APPPATH\Controllers\Mantenimientocarro.php(52): json_decode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-05 22:47:23 --> json_decode(): Argument #1 ($json) must be of type string, array given
+in APPPATH\Controllers\Mantenimientocarro.php on line 52.
+ 1 APPPATH\Controllers\Mantenimientocarro.php(52): json_decode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

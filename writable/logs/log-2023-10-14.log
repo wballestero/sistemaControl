@@ -1,0 +1,126 @@
+CRITICAL - 2023-10-14 00:04:54 --> Undefined array key "IdOrigen"
+in APPPATH\Controllers\ConsultaFacturas.php on line 38.
+ 1 APPPATH\Controllers\ConsultaFacturas.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "IdOrigen"', 'APPPATH\\Controllers\\ConsultaFacturas.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ConsultaFacturas->buscarFactura()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ConsultaFacturas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-14 00:04:56 --> Undefined array key "IdOrigen"
+in APPPATH\Controllers\ConsultaFacturas.php on line 38.
+ 1 APPPATH\Controllers\ConsultaFacturas.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "IdOrigen"', 'APPPATH\\Controllers\\ConsultaFacturas.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ConsultaFacturas->buscarFactura()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ConsultaFacturas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-14 14:48:31 --> Undefined array key "IdOrigen"
+in APPPATH\Controllers\ConsultaFacturas.php on line 38.
+ 1 APPPATH\Controllers\ConsultaFacturas.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "IdOrigen"', 'APPPATH\\Controllers\\ConsultaFacturas.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ConsultaFacturas->buscarFactura()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ConsultaFacturas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-14 14:48:32 --> Undefined array key "IdOrigen"
+in APPPATH\Controllers\ConsultaFacturas.php on line 38.
+ 1 APPPATH\Controllers\ConsultaFacturas.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "IdOrigen"', 'APPPATH\\Controllers\\ConsultaFacturas.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ConsultaFacturas->buscarFactura()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ConsultaFacturas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-14 14:48:33 --> Undefined array key "IdOrigen"
+in APPPATH\Controllers\ConsultaFacturas.php on line 38.
+ 1 APPPATH\Controllers\ConsultaFacturas.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "IdOrigen"', 'APPPATH\\Controllers\\ConsultaFacturas.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ConsultaFacturas->buscarFactura()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ConsultaFacturas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-14 14:48:34 --> Undefined array key "IdOrigen"
+in APPPATH\Controllers\ConsultaFacturas.php on line 38.
+ 1 APPPATH\Controllers\ConsultaFacturas.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "IdOrigen"', 'APPPATH\\Controllers\\ConsultaFacturas.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ConsultaFacturas->buscarFactura()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ConsultaFacturas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-14 14:48:34 --> Undefined array key "IdOrigen"
+in APPPATH\Controllers\ConsultaFacturas.php on line 38.
+ 1 APPPATH\Controllers\ConsultaFacturas.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "IdOrigen"', 'APPPATH\\Controllers\\ConsultaFacturas.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ConsultaFacturas->buscarFactura()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ConsultaFacturas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-14 14:50:44 --> Undefined array key "IdOrigen"
+in APPPATH\Controllers\ConsultaFacturas.php on line 38.
+ 1 APPPATH\Controllers\ConsultaFacturas.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "IdOrigen"', 'APPPATH\\Controllers\\ConsultaFacturas.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ConsultaFacturas->buscarFactura()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ConsultaFacturas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-14 15:08:18 --> Undefined array key "IdOrigen"
+in APPPATH\Controllers\ConsultaFacturas.php on line 38.
+ 1 APPPATH\Controllers\ConsultaFacturas.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "IdOrigen"', 'APPPATH\\Controllers\\ConsultaFacturas.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ConsultaFacturas->buscarFactura()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ConsultaFacturas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-14 15:08:19 --> Undefined array key "IdOrigen"
+in APPPATH\Controllers\ConsultaFacturas.php on line 38.
+ 1 APPPATH\Controllers\ConsultaFacturas.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "IdOrigen"', 'APPPATH\\Controllers\\ConsultaFacturas.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ConsultaFacturas->buscarFactura()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ConsultaFacturas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-14 15:08:48 --> Undefined array key "IdOrigen"
+in APPPATH\Controllers\ConsultaFacturas.php on line 38.
+ 1 APPPATH\Controllers\ConsultaFacturas.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "IdOrigen"', 'APPPATH\\Controllers\\ConsultaFacturas.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ConsultaFacturas->buscarFactura()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ConsultaFacturas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-14 15:10:56 --> Undefined array key "IdOrigen"
+in APPPATH\Controllers\ConsultaFacturas.php on line 38.
+ 1 APPPATH\Controllers\ConsultaFacturas.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "IdOrigen"', 'APPPATH\\Controllers\\ConsultaFacturas.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ConsultaFacturas->buscarFactura()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ConsultaFacturas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-14 15:10:57 --> Undefined array key "IdOrigen"
+in APPPATH\Controllers\ConsultaFacturas.php on line 38.
+ 1 APPPATH\Controllers\ConsultaFacturas.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "IdOrigen"', 'APPPATH\\Controllers\\ConsultaFacturas.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ConsultaFacturas->buscarFactura()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ConsultaFacturas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-14 16:18:42 --> Undefined array key "IdOrigen"
+in APPPATH\Controllers\ConsultaFacturas.php on line 38.
+ 1 APPPATH\Controllers\ConsultaFacturas.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "IdOrigen"', 'APPPATH\\Controllers\\ConsultaFacturas.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ConsultaFacturas->buscarFactura()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ConsultaFacturas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-14 16:18:43 --> Undefined array key "IdOrigen"
+in APPPATH\Controllers\ConsultaFacturas.php on line 38.
+ 1 APPPATH\Controllers\ConsultaFacturas.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "IdOrigen"', 'APPPATH\\Controllers\\ConsultaFacturas.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ConsultaFacturas->buscarFactura()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ConsultaFacturas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-14 16:32:16 --> Undefined array key "IdOrigen"
+in APPPATH\Controllers\ConsultaFacturas.php on line 38.
+ 1 APPPATH\Controllers\ConsultaFacturas.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "IdOrigen"', 'APPPATH\\Controllers\\ConsultaFacturas.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ConsultaFacturas->buscarFactura()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ConsultaFacturas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-14 16:40:55 --> Undefined array key "IdOrigen"
+in APPPATH\Controllers\ConsultaFacturas.php on line 38.
+ 1 APPPATH\Controllers\ConsultaFacturas.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "IdOrigen"', 'APPPATH\\Controllers\\ConsultaFacturas.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ConsultaFacturas->buscarFactura()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ConsultaFacturas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-14 16:41:06 --> Undefined array key "IdOrigen"
+in APPPATH\Controllers\ConsultaFacturas.php on line 38.
+ 1 APPPATH\Controllers\ConsultaFacturas.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "IdOrigen"', 'APPPATH\\Controllers\\ConsultaFacturas.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ConsultaFacturas->buscarFactura()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ConsultaFacturas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

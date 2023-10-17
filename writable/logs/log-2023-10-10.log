@@ -1,0 +1,21 @@
+CRITICAL - 2023-10-10 02:44:50 --> Cannot use [] for reading
+in APPPATH\Database\dbConection.php on line 39.
+ 1 APPPATH\Controllers\Mantenimientocarro.php(35): App\Database\dbConection->backendRequest([...], 'EXEC paConsultaVehiculos @pConsulta=?')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarVehiculos()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 02:44:50 --> Cannot use [] for reading
+in APPPATH\Database\dbConection.php on line 39.
+ 1 APPPATH\Controllers\Mantenimientocarro.php(93): App\Database\dbConection->backendRequest([...], 'EXEC paConsultaFormaPago @pConsulta=?')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarFormaPago()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-10 02:44:50 --> Cannot use [] for reading
+in APPPATH\Database\dbConection.php on line 39.
+ 1 APPPATH\Controllers\Mantenimientocarro.php(64): App\Database\dbConection->backendRequest([...], 'EXEC paConsultaTaller @pConsulta=?')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarTalleres()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

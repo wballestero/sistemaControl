@@ -1,0 +1,22 @@
+CRITICAL - 2023-03-03 02:55:54 --> Array to string conversion
+in APPPATH\Views\mantenimientoCarro\index.php on line 39.
+ 1 APPPATH\Views\mantenimientoCarro\index.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\mantenimientoCarro\\index.php', 39)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\mantenimientoCarro\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('mantenimientoCarro/index', [], true)
+ 5 APPPATH\Controllers\mantenimientoCarro.php(10): view('mantenimientoCarro/index')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-03 02:56:17 --> Array to string conversion
+in APPPATH\Views\mantenimientoCarro\index.php on line 39.
+ 1 APPPATH\Views\mantenimientoCarro\index.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\mantenimientoCarro\\index.php', 39)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\mantenimientoCarro\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('mantenimientoCarro/index', [], true)
+ 5 APPPATH\Controllers\mantenimientoCarro.php(10): view('mantenimientoCarro/index')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

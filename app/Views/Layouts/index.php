@@ -139,12 +139,17 @@
 
       <li class="nav-item">
         <a class="nav-link collapsed" data-bs-target="#components-nav" data-bs-toggle="collapse" href="#">
-          <i class="bi bi-menu-button-wide"></i><span>Vehiculo</span><i class="bi bi-chevron-down ms-auto"></i>
+          <i class="bi bi-menu-button-wide"></i><span>Facturas</span><i class="bi bi-chevron-down ms-auto"></i>
         </a>
         <ul id="components-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
           <li>
             <a href="<?php echo site_url('Mantenimientocarro') ?>" >
-              <i class="bi bi-circle"></i><span>Registro de Mantenimiento</span>
+              <i class="bi bi-circle"></i><span>Registro de Facturas</span>
+            </a>
+          </li>
+          <li>
+            <a href="<?php echo site_url('ConsultaFacturas') ?>" >
+              <i class="bi bi-circle"></i><span>Consulta de Facturas</span>
             </a>
           </li>
         </ul>
@@ -178,7 +183,7 @@
       <div class="row" id="MainDiv">
 
       <?= $this->renderSection('content') ?>
-
+      <!-- <?php phpinfo()?> -->
       </div>
     </section>
 

@@ -1,0 +1,52 @@
+CRITICAL - 2023-03-04 16:00:34 --> Invalid file: "Mantenimientoarro/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Mantenimientoarro/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Mantenimientoarro/index', [], true)
+ 3 APPPATH\Controllers\Mantenimientocarro.php(10): view('Mantenimientoarro/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-04 16:02:03 --> Invalid file: "Mantenimientoarro/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Mantenimientoarro/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Mantenimientoarro/index', [], true)
+ 3 APPPATH\Controllers\Mantenimientocarro.php(10): view('Mantenimientoarro/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-04 16:03:14 --> Invalid file: "Mantenimientoarro/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Mantenimientoarro/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Mantenimientoarro/index', [], true)
+ 3 APPPATH\Controllers\Mantenimientocarro.php(10): view('Mantenimientoarro/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-04 16:03:42 --> Invalid file: "Mantenimientoarro/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Mantenimientoarro/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Mantenimientoarro/index', [], true)
+ 3 APPPATH\Controllers\Mantenimientocarro.php(10): view('Mantenimientoarro/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-04 16:04:03 --> Invalid file: "Mantenimientoarro/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Mantenimientoarro/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Mantenimientoarro/index', [], true)
+ 3 APPPATH\Controllers\Mantenimientocarro.php(10): view('Mantenimientoarro/index')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-04 16:34:59 --> Undefined property: App\Controllers\mantenimientoCarro::$input
+in APPPATH\Controllers\Mantenimientocarro.php on line 16.
+ 1 APPPATH\Controllers\Mantenimientocarro.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\mantenimientoCarro::$input', 'APPPATH\\Controllers\\Mantenimientocarro.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->buscar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

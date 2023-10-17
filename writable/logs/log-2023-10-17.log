@@ -1,0 +1,64 @@
+CRITICAL - 2023-10-17 14:44:55 --> sqlsrv_query(): Argument #1 ($conn) must be of type resource, bool given
+in APPPATH\Database\dbConection.php on line 29.
+ 1 APPPATH\Database\dbConection.php(29): sqlsrv_query(false, 'EXEC paConsultaFormaPago @pConsulta=?', [...])
+ 2 APPPATH\Controllers\Mantenimientocarro.php(93): App\Database\dbConection->backendRequest([...], 'EXEC paConsultaFormaPago @pConsulta=?')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarFormaPago()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 14:44:55 --> sqlsrv_query(): Argument #1 ($conn) must be of type resource, bool given
+in APPPATH\Database\dbConection.php on line 29.
+ 1 APPPATH\Database\dbConection.php(29): sqlsrv_query(false, 'EXEC paConsultaFacturaOrigen @pConsulta=?', [...])
+ 2 APPPATH\Controllers\Mantenimientocarro.php(35): App\Database\dbConection->backendRequest([...], 'EXEC paConsultaFacturaOrigen @pConsulta=?')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarOrigenes()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 14:44:59 --> sqlsrv_query(): Argument #1 ($conn) must be of type resource, bool given
+in APPPATH\Database\dbConection.php on line 29.
+ 1 APPPATH\Database\dbConection.php(29): sqlsrv_query(false, 'EXEC paConsultaFacturaOrigen @pConsulta=?', [...])
+ 2 APPPATH\Controllers\Mantenimientocarro.php(35): App\Database\dbConection->backendRequest([...], 'EXEC paConsultaFacturaOrigen @pConsulta=?')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarOrigenes()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 14:44:59 --> sqlsrv_query(): Argument #1 ($conn) must be of type resource, bool given
+in APPPATH\Database\dbConection.php on line 29.
+ 1 APPPATH\Database\dbConection.php(29): sqlsrv_query(false, 'EXEC paConsultaFormaPago @pConsulta=?', [...])
+ 2 APPPATH\Controllers\Mantenimientocarro.php(93): App\Database\dbConection->backendRequest([...], 'EXEC paConsultaFormaPago @pConsulta=?')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarFormaPago()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 14:44:59 --> sqlsrv_query(): Argument #1 ($conn) must be of type resource, bool given
+in APPPATH\Database\dbConection.php on line 29.
+ 1 APPPATH\Database\dbConection.php(29): sqlsrv_query(false, 'EXEC paConsultaFacturaMotivo @pConsulta=?', [...])
+ 2 APPPATH\Controllers\Mantenimientocarro.php(64): App\Database\dbConection->backendRequest([...], 'EXEC paConsultaFacturaMotivo @pConsulta=?')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarMotivos()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 14:47:26 --> sqlsrv_query(): Argument #1 ($conn) must be of type resource, bool given
+in APPPATH\Database\dbConection.php on line 29.
+ 1 APPPATH\Database\dbConection.php(29): sqlsrv_query(false, 'EXEC paConsultaFacturaOrigen @pConsulta=?', [...])
+ 2 APPPATH\Controllers\Mantenimientocarro.php(35): App\Database\dbConection->backendRequest([...], 'EXEC paConsultaFacturaOrigen @pConsulta=?')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarOrigenes()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 14:47:26 --> sqlsrv_query(): Argument #1 ($conn) must be of type resource, bool given
+in APPPATH\Database\dbConection.php on line 29.
+ 1 APPPATH\Database\dbConection.php(29): sqlsrv_query(false, 'EXEC paConsultaFormaPago @pConsulta=?', [...])
+ 2 APPPATH\Controllers\Mantenimientocarro.php(93): App\Database\dbConection->backendRequest([...], 'EXEC paConsultaFormaPago @pConsulta=?')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarFormaPago()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-17 14:47:26 --> sqlsrv_query(): Argument #1 ($conn) must be of type resource, bool given
+in APPPATH\Database\dbConection.php on line 29.
+ 1 APPPATH\Database\dbConection.php(29): sqlsrv_query(false, 'EXEC paConsultaFacturaMotivo @pConsulta=?', [...])
+ 2 APPPATH\Controllers\Mantenimientocarro.php(64): App\Database\dbConection->backendRequest([...], 'EXEC paConsultaFacturaMotivo @pConsulta=?')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\mantenimientoCarro->listarMotivos()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mantenimientoCarro))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

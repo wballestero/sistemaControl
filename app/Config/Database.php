@@ -24,6 +24,16 @@ class Database extends Config
     /**
      * The default database connection.
      */
+
+    public array  $connSqlServer = array(
+        'dsn'   => '',
+        'hostname' => 'WILL_SERVER2\SQLSERVERWILL',
+        'username' => 'usrSystem',
+        'password' => '101110111011',
+        'database' => 'Sistema',
+        'dbdriver' => 'sqlsrv', // Usa sqlsrv para SQL Server
+        // ...
+    );
     public array $default = [
         'DSN'      => '',
         'hostname' => 'localhost',
